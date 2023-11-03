@@ -9,7 +9,4 @@ dashboard 4-https://public.tableau.com/views/UTUBEFINISHED/Dashboard4?:language=
 
 story 1-https://public.tableau.com/shared/79P38H3XW?:display_count=n&:origin=viz_share_link
 
-DEMO VIDEO LINK: 
-https://drive.google.com/file/d/1uajPWTeC4f33153bKauU6WmdjvomddEM/view?usp=drive_link
-
-
+DEMO VIDEO LINK: https://drive.google.com/file/d/1qI9Vp4NHi-Y94zL4e0FGmgmwscmuSQ_9/view?usp=drive_link
